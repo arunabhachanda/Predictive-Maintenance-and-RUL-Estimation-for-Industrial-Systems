@@ -1,1 +1,1 @@
-# predictive-maintenance-ml-dl
+# Predictive-Maintenance-and-RUL-Estimation-for-Industrial-Systems
